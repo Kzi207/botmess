@@ -1,0 +1,95 @@
+{
+    "language": "vi",
+    "DeveloperMode": false,
+    "autoCreateDB": true,
+    "MAINTENANCE_MODE": true,
+    "iconUnsend": {
+        "status": true,
+        "icon": "😠"
+    },
+    "notiGroup": false,
+    "NOTIFICATION": true,
+    "allowInbox": true,
+    "commandDisabled": [],
+    "eventDisabled": [],
+    "autoClean": true,
+    "BOTNAME": " Kzi ",
+    "AMDIN_NAME": "kduy",
+    "FACEBOOK_ADMIN": "https://www.facebook.com/kzi207",
+    "PREFIX": "!",
+    "ADMINBOT": [
+        "100048033791608"
+    ],
+    "NDH": [
+        "100048033791608"
+    ],
+    "DATABASE": {
+        "sqlite": {
+            "storage": "antists.sqlite"
+        }
+    },
+    "APPSTATEPATH": "appstate.json",
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "pauseLog": true,
+        "logLevel": "error",
+        "selfListen": true,
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Mobile/15E148 Safari/604.1"
+    },
+    "version": "1.2.14",
+    "menu": {
+        "autoUnsend": {
+            "status": true,
+            "timeOut": 60
+        }
+    },
+    "spamregbox": {
+        "spamDelay": 2
+    },
+    "antinamebox": {
+        "autoUnsend": true,
+        "sendNoti": true,
+        "timeToUnsend": 10
+    },
+    "minecraft": {
+        "APIKEY": ""
+    },
+    "sub1": {
+        "cooldownTime": 60000
+    },
+    "pokemon": {
+        "APIKEY": ""
+    },
+    "regboxspam": {
+        "spamDelay": 2
+    },
+    "spam": {
+        "spamDelay": 2
+    },
+    "spamping": {
+        "spamDelay": 2
+    },
+    "spampri": {
+        "spamDelay": 2
+    },
+    "daily": {
+        "cooldownTime": 43200000,
+        "rewardCoin": 5000000
+    },
+    "kicktag": {
+        "kickTagDelay": 2
+    },
+    "math": {
+        "WOLFRAM": "T8J8YV-H265UQ762K"
+    },
+    "cauca": {
+        "APIKEY": ""
+    },
+    "sing": {
+        "APIKEY": "5b26fd1784msh6f189adce962cf1p1df7b9jsnf15b99d6c794"
+    },
+    "chuirieng": {
+        "spamDelay": 2
+    }
+}
